@@ -1,0 +1,6 @@
+# vagrant_config.yml
+
+vagrantdirectory: 'mean_vagrant'
+appname: 'ww_tracker'
+box: 'hashicorp/precise64'
+port: 3000
