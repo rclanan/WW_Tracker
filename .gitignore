@@ -1,0 +1,9 @@
+#Ignore everything
+*
+
+#Exceptions
+!.gitattributes
+!.gitignore
+!/provision
+!README.md
+!Vagrantfile
